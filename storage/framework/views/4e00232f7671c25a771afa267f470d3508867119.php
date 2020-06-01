@@ -1,0 +1,1 @@
+<h1>Hello!</h1><?php /**PATH C:\xampp\htdocs\Shop-master\resources\views/admin/hello.blade.php ENDPATH**/ ?>

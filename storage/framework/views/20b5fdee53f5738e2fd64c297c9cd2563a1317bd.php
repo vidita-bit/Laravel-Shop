@@ -1,0 +1,2 @@
+To verify email <a href ="<?php echo e(route('admin.email.Sent', ['email' => $user->email,'verifytoken'=> $user->verifytoken])); ?>">click here</a>
+<?php /**PATH C:\xampp\htdocs\Shop-master\resources\views/admin/resendemail.blade.php ENDPATH**/ ?>
